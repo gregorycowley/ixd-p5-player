@@ -1,7 +1,7 @@
 {
-  "name": "cca-electron-nodejs",
-  "version": "1.0.0",
-  "description": "",
+  "name": "cca-p5-player",
+  "version": "0.1.0-alpha",
+  "description": "Player for P5 interactions using the Tangible Engine",
   "main": ".webpack/main",
   "scripts": {
     "build": "electron-forge start",
