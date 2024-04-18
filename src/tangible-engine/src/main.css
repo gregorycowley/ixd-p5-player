@@ -1,0 +1,20 @@
+body {
+  background-color: #181a1b;
+  margin: 0;
+  min-height: 100vh;
+  overflow: hidden;
+  position: relative;
+}
+
+.tangible {
+  background-color: transparent;
+  background-image: url('./images/tangible-engine-logo.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  border-radius: 100%;
+  position: absolute;
+  opacity: 0;
+  transition: ease 0.3s ease;
+  width: 200px;
+  height: 200px;
+}

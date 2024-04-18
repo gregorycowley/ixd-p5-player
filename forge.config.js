@@ -64,12 +64,12 @@ module.exports = {
 
   publishers: [
     {
-      name: "@electron-forge/publisher-github",
+      name: '@electron-forge/publisher-github',
       config: {
         repository: {
-          owner: "gregorycowley",
-          owner: "gregorycowley",
-          name: "ixd-tangible-player"
+          owner: 'gregorycowley',
+          owner: 'gregorycowley',
+          name: 'ixd-tangible-player'
         }
       }
     }
